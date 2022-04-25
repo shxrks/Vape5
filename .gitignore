@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# c# libs
+*.cs
+*.csproj
+.vscode
+icon
+obj
+.nuget
+.nupkg
+.nug
+
